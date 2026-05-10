@@ -1,7 +1,7 @@
 # 🐄 Plateforme IoT de Surveillance de Bétail — LoRaWAN
 
-> **Projet de fin d'études — INPT 2025/2026**  
-> EL BOUYED Zainab & NASR Houda — Module Cloud & IoT
+> **Projet de Module PLATEFORMES ET TECHNOLOGIES DE L'IOT**  
+> EL BOUYED Zainab & NASR Houda 
 
 Plateforme complète de surveillance en temps réel de bovins laitiers via un réseau LoRaWAN, avec simulation de données issues de datasets scientifiques réels et dashboard web interactif.
 
