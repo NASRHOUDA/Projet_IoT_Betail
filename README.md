@@ -1,4 +1,4 @@
-# 🐄 Plateforme IoT de Surveillance de Bétail — LoRaWAN
+# 🐄 Plateforme IoT de Surveillance de Bétail - LoRaWAN
 
 > **Projet de Module PLATEFORMES ET TECHNOLOGIES DE L'IOT**  
 > EL BOUYED Zainab & NASR Houda 
